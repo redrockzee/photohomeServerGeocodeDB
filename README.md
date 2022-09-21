@@ -1,2 +1,2 @@
-# legacyServerGeocodeDB
-legacyServerGeocodeDB
+# photohomeServerGeocodeDB
+photohomeServerGeocodeDB
